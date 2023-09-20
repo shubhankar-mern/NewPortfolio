@@ -117,7 +117,7 @@ const technologies = [
    name: 'postgres',
    icon: postgres,
   },
-  
+ 
 ];
 
 const experiences = [
@@ -126,12 +126,12 @@ const experiences = [
     company_name: "LTI",
     icon: lti,
     iconBg: "#E6DEDD",
-    date: "Jan 2020 - Feb 2022",
+    date: "Jun 2020 - Jan 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "MySQL database/user creation, dump/restoration.Perform Server Backups and Restores.",
+      "Implemented and administered Microsoft Exchange for seamless communication and collaboration among teammembers, resulting in a 30% increase in productivity.Took server reports as well.",
+      "Provided exceptional L1 support to end-users, resolving tickets promptly and efficiently, maintaining a highcustomer satisfaction rate of 95%.",
+      "Experience of working with Servers: FTP, Web Server, Mail Servers.",
     ],
   },
   {
@@ -139,26 +139,27 @@ const experiences = [
     company_name: "Coding Ninja",
     icon: cn,
     iconBg: "#383E56",
-    date: "Oct 2022 - Feb 2023",
+    date: "Oct 2022 - Feb 2022",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies Like MERN",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Got Trained in Fullstack Application Developement in MERN stack",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other students.",
     ],
   },
   {
     title: "Full stack Developer",
-    company_name: "Zeeve",
+    company_name: "Zeeve.io",
     icon: zeeve,
     iconBg: "#E6DEDD",
-    date: "Feb 2022 - Present",
+    date: "Feb 2022 - September 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Integrated new Email notifications in the notification service backend and . Wrote SDK for various notification service emails. Also integrated them in various backend microservices like auth service and subscription service.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Developed REST API using Node.js and PostgreSQL, providing a robust and scalable backend architecture that handles concurrent user requests with a response time of less than 100ms",
+      "Migrated Recaptcha v2 to Recaptcha Enterprise, enhancing the security and reliability of the application against bot attacks, resulting in a 90% reduction in fraudulent activities and unauthorized access attempts",
+      "Worked on notification service microservice & Integrated new Emails in the notification service backend and sdk, resulting in a 20% increase in timely and accurate email delivery",
+      " Designed and developed responsive frontends using React, Bootstrap classes, and Redux from wireframe and figma designs, resulting in a 40% improvement in user experience and engagement",
       "Participating in code reviews and providing constructive feedback to other developers.",
-      "Worked in application backend and integrated various critical functionalities",
+      "Worked in application backend and integrated various critical functionalities also wrote testcases using test cases using Chai and Mocha , achieving a test coverage of 95% across all critical functionalities.",
     ],
   },
 ];
@@ -184,58 +185,58 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "News Bingo",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users login and buy a subscription . Users can select different categories of news they wanna recieve. It uses the news API.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Typescript",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Nodejs",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/shubhankar-mern/NewsBingo-FullStack-MERN",
   },
   {
-    name: "Job IT",
+    name: "Employee Review CRM",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that helps HR create employee review forms. HRs can create forms and invite employees to fill it and genrate a review report.",
     tags: [
       {
-        name: "react",
+        name: "ejs",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Nodejs",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "CSS",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/shubhankar-mern/EmployeeReviewCRMapp",
   },
   {
-    name: "Trip Guide",
+    name: "React MovieApp",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A movieApp made with reactjs with filtering ,pajination etc. It uses the themoviedb API for fetching data. ",
     tags: [
       {
-        name: "nextjs",
+        name: "reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "themoviedb API",
         color: "green-text-gradient",
       },
       {
@@ -244,7 +245,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/shubhankar-mern/React_MovieApp",
   },
 ];
 

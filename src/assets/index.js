@@ -31,9 +31,9 @@ import lti from "./company/lti.png";
 import cn from "./company/cn.png";
 import zeeve from "./company/zeeve.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import carrent from "./news_api.png";
+import jobit from "./EmployeeReviewCRM.png";
+import tripguide from "./MoviesApp.png";
 
 export {
   backend,
