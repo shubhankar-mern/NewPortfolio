@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/NewPortfolio/static/css/main.ee5da89e.css",
+    "main.js": "/NewPortfolio/static/js/main.fdcad84b.js",
+    "static/js/787.79c02c71.chunk.js": "/NewPortfolio/static/js/787.79c02c71.chunk.js",
+    "static/media/MoviesApp.png": "/NewPortfolio/static/media/MoviesApp.b10d937bef181c653235.png",
+    "static/media/herobg.png": "/NewPortfolio/static/media/herobg.ad33add2430e34307c33.png",
+    "static/media/news_api.png": "/NewPortfolio/static/media/news_api.b3e2c2cfd7ac1e1a28ed.png",
+    "static/media/EmployeeReviewCRM.png": "/NewPortfolio/static/media/EmployeeReviewCRM.51c2818efc107b330752.png",
+    "static/media/web.png": "/NewPortfolio/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/backend.png": "/NewPortfolio/static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/mobile.png": "/NewPortfolio/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/creator.png": "/NewPortfolio/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/starbucks.png": "/NewPortfolio/static/media/starbucks.c086db5b166ea2f14de1.png",
+    "static/media/github.png": "/NewPortfolio/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/close.svg": "/NewPortfolio/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
+    "static/media/menu.svg": "/NewPortfolio/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
+    "index.html": "/NewPortfolio/index.html",
+    "static/media/threejs.svg": "/NewPortfolio/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
+    "main.ee5da89e.css.map": "/NewPortfolio/static/css/main.ee5da89e.css.map",
+    "main.fdcad84b.js.map": "/NewPortfolio/static/js/main.fdcad84b.js.map",
+    "787.79c02c71.chunk.js.map": "/NewPortfolio/static/js/787.79c02c71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee5da89e.css",
+    "static/js/main.fdcad84b.js"
+  ]
+}
